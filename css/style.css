@@ -65,7 +65,10 @@ a:hover {
     /* background-color: darkgoldenrod; */
     text-decoration: underline;
     color: darkgoldenrod;
+    
     text-decoration-style: wavy;
+    border-top: 2px solid cyan;
+    border-bottom: 2px solid cyan;
 }
 
 
