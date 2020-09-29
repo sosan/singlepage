@@ -72,7 +72,7 @@ a:hover {
     color: darkgoldenrod;
     
     text-decoration-style: wavy;
-    border-top: 2px solid cyan;
+    /* border-top: 2px solid cyan; */
     border-bottom: 2px solid cyan;
 }
 
