@@ -4,9 +4,9 @@
 
 /* Tipografía */
 @font-face {
-    font-family: "";
-    src: url("") format("woff2"),
-         url("") format("woff");
+    font-family: "Roboto";
+    src: url("../font/Roboto-Medium.woff2") format("woff2"),
+         url("../font/Roboto-Medium.woff") format("woff");
 }
 
 /* ******************************** */
@@ -14,4 +14,74 @@
 /* Colores */
 
 /* ******************************** */
+ul
+{
+    list-style-type: none;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
 
+}
+
+.navegacion
+{
+    position: fixed;
+    
+    width: 100%;
+    padding: 5vh;
+
+    top: 0;
+    left: 0;
+    
+    background-color: black;
+    color: white;
+
+}
+
+.centrado
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+a
+{
+    color:whitesmoke;
+}
+
+
+.primerParrafo
+{
+    width: 90%;
+
+}
+
+.segundoParrafo
+{
+    width: 90%;
+    margin-top: 5vmin;
+
+}
+
+.tercerParrafo
+{
+    width: 90%;
+    margin-top: 5vmin;
+
+
+}
+
+.ancla
+{
+    padding-top: 18vmin;
+}
+
+.parrafo
+{
+
+
+
+}
