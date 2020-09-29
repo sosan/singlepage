@@ -58,6 +58,14 @@ ul
 a
 {
     color:whitesmoke;
+    text-decoration: none;
+}
+
+a:hover {
+    /* background-color: darkgoldenrod; */
+    text-decoration: underline;
+    color: darkgoldenrod;
+    text-decoration-style: wavy;
 }
 
 
