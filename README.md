@@ -1,3 +1,7 @@
+<a href="https://sosan.github.io/singlepage/">Github Pages</a><br>
+<a href="https://modest-banach-6344aa.netlify.app/">Netlify</a><br>
+
+
 # Plantilla FrontEnd
 ##### Plantilla Básica para poder empezar casi cualquier proyecto en **FrontEnd**.
 
